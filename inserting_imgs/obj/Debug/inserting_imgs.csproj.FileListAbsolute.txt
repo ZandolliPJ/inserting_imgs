@@ -1,0 +1,33 @@
+G:\prashanth\prash\C#\inserting_imgs\inserting_imgs\bin\Debug\inserting_imgs.exe
+G:\prashanth\prash\C#\inserting_imgs\inserting_imgs\bin\Debug\inserting_imgs.pdb
+G:\prashanth\prash\C#\inserting_imgs\inserting_imgs\obj\Debug\ResolveAssemblyReference.cache
+G:\prashanth\prash\C#\inserting_imgs\inserting_imgs\obj\Debug\inserting_imgs.Form1.resources
+G:\prashanth\prash\C#\inserting_imgs\inserting_imgs\obj\Debug\inserting_imgs.Properties.Resources.resources
+G:\prashanth\prash\C#\inserting_imgs\inserting_imgs\obj\Debug\inserting_imgs.csproj.GenerateResource.Cache
+G:\prashanth\prash\C#\inserting_imgs\inserting_imgs\obj\Debug\inserting_imgs.exe
+G:\prashanth\prash\C#\inserting_imgs\inserting_imgs\obj\Debug\inserting_imgs.pdb
+G:\prashanth\prash\my articles\under prep\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.exe
+G:\prashanth\prash\my articles\under prep\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.pdb
+H:\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.exe
+H:\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.pdb
+H:\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\bin\Debug\inserting_imgs.exe
+H:\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\bin\Debug\inserting_imgs.pdb
+H:\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\ResolveAssemblyReference.cache
+H:\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.Form1.resources
+H:\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.Properties.Resources.resources
+H:\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Desktop\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.exe
+C:\Users\Administrateur\Desktop\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.pdb
+C:\Users\Administrateur\Desktop\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\bin\Debug\inserting_imgs.exe
+C:\Users\Administrateur\Desktop\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\bin\Debug\inserting_imgs.pdb
+C:\Users\Administrateur\Desktop\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.Form1.resources
+C:\Users\Administrateur\Desktop\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Desktop\DEVELOPPEUR\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.exe
+C:\Users\Administrateur\Desktop\DEVELOPPEUR\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.pdb
+C:\Users\Administrateur\Desktop\DEVELOPPEUR\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\bin\Debug\inserting_imgs.exe
+C:\Users\Administrateur\Desktop\DEVELOPPEUR\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\bin\Debug\inserting_imgs.pdb
+C:\Users\Administrateur\Desktop\DEVELOPPEUR\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\DEVELOPPEUR\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.Form1.resources
+C:\Users\Administrateur\Desktop\DEVELOPPEUR\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\DEVELOPPEUR\inserting_imgs(no sp's)\inserting_imgs(no sp's)\inserting_imgs\obj\Debug\inserting_imgs.csproj.GenerateResource.Cache
